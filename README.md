@@ -15,7 +15,7 @@ This is just another curated list of links and tools for productivity. For both 
 * [Trello](https://culturedcode.com/things/)
 ### Knowledge management
 * [Notion](https://www.notion.so/)
-* [Roum](https://roamresearch.com/)
+* [Roam](https://roamresearch.com/)
 ### Pomodoro timers
 * [Forest](https://www.forestapp.cc/)
 ### Typing speed checkers
